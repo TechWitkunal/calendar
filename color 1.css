@@ -1,0 +1,9 @@
+* {
+    transition: all 0.5s ease-in-out;
+}
+
+:root {
+    --dark_blue: #222831;
+    --light_blue: #393e46;
+    --heading_color: #00adb5;
+}
